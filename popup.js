@@ -37,6 +37,6 @@ $(function () {
             professorName: name
         };
     }
-    
+
 
 });
